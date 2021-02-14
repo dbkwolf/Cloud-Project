@@ -3,7 +3,7 @@
 ## Project Name: Chefist
 ![Chefist Front Page](/View_Chefsit.JPG)
 ## General Description
-The following requirements are for a website application using ASP.NET, MySQL, Azure cloud and C# programming.
+The following requirements are for a website application using ASP.NET, MySQL, Azure cloud and C#.
 The website will allow users to create and publish recipes as well as to search these by cuisine and name.
 
 ## Requirements
